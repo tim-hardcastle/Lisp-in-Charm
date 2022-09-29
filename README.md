@@ -4,4 +4,4 @@ The features, though not the details of the implementation, are based on Peter N
 
 This can therefore serve as documentation for the Lisp implementation until I write something better. http://norvig.com/lispy.html
 
-Instructions are given to the Lisp interpreter in the form ex <string>, e.g. ex "(+ 2 2)".
+Instructions are given to the Lisp interpreter in the form ex \<string\>, e.g. ex "(+ 2 2)".
